@@ -2,6 +2,8 @@
 
 I work on both server-side and client-side. Mainly Wordpress, some Moodle. Started my web career with ASP.NET and now also write in PHP.
 
+I have a blog in Hebrew in which I write about interesting posts and articles I've read regarding web development, and about interesting projects I've taken part in.
+
 <!--
 **leac/leac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
