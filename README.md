@@ -1,4 +1,6 @@
-### Hi there 👋
+### A web programmer from Israel.
+
+I work on both server-side and client-side. Mainly Wordpress, some Moodle. Started my web career with ASP.NET and now also write in PHP.
 
 <!--
 **leac/leac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
